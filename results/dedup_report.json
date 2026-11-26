@@ -1,0 +1,8 @@
+{
+  "images": 2999,
+  "groups": 2995,
+  "images_in_duplicate_groups": 8,
+  "cross_label_groups_dropped": 0,
+  "max_hamming_distance": 4,
+  "images_after_drop": 2999
+}

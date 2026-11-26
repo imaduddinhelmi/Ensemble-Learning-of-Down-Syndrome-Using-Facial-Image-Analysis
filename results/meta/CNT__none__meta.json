@@ -1,0 +1,16 @@
+{
+  "names": [
+    "ConvNeXtTiny"
+  ],
+  "policy": "none",
+  "seed": 42,
+  "lr": 1e-05,
+  "batch_size": 32,
+  "epochs_run": 30,
+  "train_seconds": 1483.4497740268707,
+  "params": 27820897,
+  "tf_version": "2.21.0",
+  "gpu": [
+    "/physical_device:GPU:0"
+  ]
+}

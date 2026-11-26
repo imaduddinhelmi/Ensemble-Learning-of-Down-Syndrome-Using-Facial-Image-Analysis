@@ -1,0 +1,17 @@
+{
+  "names": [
+    "DenseNet201",
+    "InceptionResNetV2"
+  ],
+  "policy": "none",
+  "seed": 42,
+  "lr": 1e-05,
+  "batch_size": 32,
+  "epochs_run": 30,
+  "train_seconds": 4337.405604124069,
+  "params": 73543969,
+  "tf_version": "2.21.0",
+  "gpu": [
+    "/physical_device:GPU:0"
+  ]
+}

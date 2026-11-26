@@ -1,0 +1,16 @@
+{
+  "names": [
+    "DenseNet201"
+  ],
+  "policy": "conservative",
+  "seed": 42,
+  "lr": 1e-05,
+  "batch_size": 32,
+  "epochs_run": 30,
+  "train_seconds": 2697.063582420349,
+  "params": 18323905,
+  "tf_version": "2.21.0",
+  "gpu": [
+    "/physical_device:GPU:0"
+  ]
+}

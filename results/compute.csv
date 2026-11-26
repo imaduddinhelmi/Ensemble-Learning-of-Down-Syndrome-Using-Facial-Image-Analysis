@@ -1,0 +1,11 @@
+config,params_M,fp32_MB,latency_ms_CPU,latency_ms_GPU,tflite_int8_MB,latency_ms_CPU_error,gpu
+D__none,18.323905,69.90015029907227,279.7827897593379,8.340752683579922,18.272384643554688,,"[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]"
+X__none,20.863529,79.58804702758789,88.64482305943966,2.472701482474804,20.539291381835938,,"[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]"
+I3__none,21.804833,83.17883682250977,89.37448915094137,7.993726059794426,21.092063903808594,,"[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]"
+IR__none,54.338273,207.28406143188477,293.41717809438705,10.590109042823315,53.081825256347656,,"[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]"
+CNT__none,27.820897,106.12829971313477,,3.0307024717330933,27.278152465820312,{{function_node __inference_<lambda>_261485}} Trying to access resource convnext_tiny_stage_0_block_0_depthwise_conv/kernel/7566 (defined @ <site-packages>/keras/src/b,"[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]"
+D_X__none,40.199785,153.3500099182129,189.42207377403975,10.255899280309677,39.78272247314453,,"[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]"
+D_I3__none,41.141089,156.94079971313477,209.03749018907547,11.95746473968029,40.33967590332031,,"[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]"
+D_IR__none,73.543969,280.54797744750977,291.0650884732604,16.18755329400301,72.2081298828125,,"[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]"
+X_IR__none,76.116233,290.3603858947754,229.62552960962057,9.969701990485191,74.50191497802734,,"[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]"
+D_X_IR__none,94.929737,362.1282081604004,458.839719183743,18.085239455103874,93.25247192382812,,"[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]"

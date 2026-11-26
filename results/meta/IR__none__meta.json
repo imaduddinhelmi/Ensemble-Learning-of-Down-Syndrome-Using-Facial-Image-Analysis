@@ -1,0 +1,16 @@
+{
+  "names": [
+    "InceptionResNetV2"
+  ],
+  "policy": "none",
+  "seed": 42,
+  "lr": 1e-05,
+  "batch_size": 32,
+  "epochs_run": 19,
+  "train_seconds": 1028.3794202804565,
+  "params": 54338273,
+  "tf_version": "2.21.0",
+  "gpu": [
+    "/physical_device:GPU:0"
+  ]
+}

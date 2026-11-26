@@ -1,0 +1,18 @@
+{
+  "names": [
+    "DenseNet201",
+    "Xception",
+    "InceptionResNetV2"
+  ],
+  "policy": "none",
+  "seed": 42,
+  "lr": 1e-05,
+  "batch_size": 16,
+  "epochs_run": 30,
+  "train_seconds": 2933.8415603637695,
+  "params": 94929737,
+  "tf_version": "2.21.0",
+  "gpu": [
+    "/physical_device:GPU:0"
+  ]
+}

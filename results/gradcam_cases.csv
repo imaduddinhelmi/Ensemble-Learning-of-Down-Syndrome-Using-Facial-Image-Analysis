@@ -1,0 +1,11 @@
+path,kind,p
+downSyndrome/down_713.jpg,TP,0.9999149
+downSyndrome/down_1018.jpg,TP,0.99987185
+downSyndrome/down_1130.jpg,TP,0.99986696
+healty/healty_1160.jpg,FP,0.9904039
+healty/healty_150.jpg,FP,0.9880149
+healty/healty_71.jpg,FP,0.9266691
+healty/healty_795.jpg,FP,0.86548495
+downSyndrome/down_1385.jpg,FN,0.0029399614
+downSyndrome/down_1327.jpg,FN,0.022996502
+downSyndrome/down_1437.jpg,FN,0.04471963

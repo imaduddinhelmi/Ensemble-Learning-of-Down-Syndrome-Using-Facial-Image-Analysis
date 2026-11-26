@@ -1,0 +1,16 @@
+{
+  "names": [
+    "InceptionV3"
+  ],
+  "policy": "none",
+  "seed": 42,
+  "lr": 1e-05,
+  "batch_size": 32,
+  "epochs_run": 23,
+  "train_seconds": 658.1103358268738,
+  "params": 21804833,
+  "tf_version": "2.21.0",
+  "gpu": [
+    "/physical_device:GPU:0"
+  ]
+}

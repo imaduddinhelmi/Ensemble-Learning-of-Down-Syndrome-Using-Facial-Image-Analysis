@@ -1,0 +1,16 @@
+{
+  "names": [
+    "Xception"
+  ],
+  "policy": "none",
+  "seed": 42,
+  "lr": 1e-05,
+  "batch_size": 32,
+  "epochs_run": 30,
+  "train_seconds": 1099.3567671775818,
+  "params": 20863529,
+  "tf_version": "2.21.0",
+  "gpu": [
+    "/physical_device:GPU:0"
+  ]
+}
